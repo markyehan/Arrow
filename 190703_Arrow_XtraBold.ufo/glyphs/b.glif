@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="b" format="1">
+  <advance width="594"/>
+  <unicode hex="0062"/>
+  <outline>
+    <contour>
+      <point x="74" y="17" type="line"/>
+      <point x="135" y="-5"/>
+      <point x="221" y="-15"/>
+      <point x="265" y="-15" type="curve" smooth="yes"/>
+      <point x="447" y="-15"/>
+      <point x="569" y="78"/>
+      <point x="569" y="261" type="curve" smooth="yes"/>
+      <point x="569" y="385"/>
+      <point x="494" y="474"/>
+      <point x="390" y="474" type="curve" smooth="yes"/>
+      <point x="331" y="474"/>
+      <point x="281" y="442"/>
+      <point x="241" y="398" type="curve" smooth="yes"/>
+      <point x="219" y="374" type="line"/>
+      <point x="229" y="336" type="line"/>
+      <point x="248" y="350" type="line" smooth="yes"/>
+      <point x="268" y="365"/>
+      <point x="287" y="371"/>
+      <point x="311" y="371" type="curve" smooth="yes"/>
+      <point x="368" y="371"/>
+      <point x="406" y="316"/>
+      <point x="406" y="234" type="curve" smooth="yes"/>
+      <point x="406" y="115"/>
+      <point x="363" y="66"/>
+      <point x="268" y="66" type="curve" smooth="yes"/>
+      <point x="249" y="66"/>
+      <point x="203" y="70"/>
+      <point x="154" y="91" type="curve"/>
+      <point x="229" y="2" type="line"/>
+      <point x="229" y="580" type="line"/>
+      <point x="239" y="676" type="line"/>
+      <point x="8" y="638" type="line"/>
+      <point x="8" y="583" type="line"/>
+      <point x="103" y="565" type="line"/>
+      <point x="74" y="602" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+            <dict>
+              <key>baseGlyph</key>
+              <string>h</string>
+              <key>transformation</key>
+              <array>
+                <integer>1</integer>
+                <integer>0</integer>
+                <integer>0</integer>
+                <integer>1</integer>
+                <integer>-3</integer>
+                <integer>0</integer>
+              </array>
+            </dict>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>b</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>594</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

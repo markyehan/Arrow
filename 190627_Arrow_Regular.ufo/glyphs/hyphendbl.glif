@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hyphendbl" format="1">
+  <advance width="335"/>
+  <unicode hex="2E17"/>
+  <outline>
+    <contour>
+      <point x="285" y="175" type="line"/>
+      <point x="285" y="225" type="line"/>
+      <point x="50" y="185" type="line"/>
+      <point x="50" y="135" type="line"/>
+    </contour>
+    <contour>
+      <point x="285" y="275" type="line"/>
+      <point x="285" y="325" type="line"/>
+      <point x="50" y="285" type="line"/>
+      <point x="50" y="235" type="line"/>
+    </contour>
+  </outline>
+</glyph>

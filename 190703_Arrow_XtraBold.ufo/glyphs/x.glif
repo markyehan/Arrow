@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="x" format="1">
+  <advance width="568"/>
+  <unicode hex="0078"/>
+  <outline>
+    <contour>
+      <point x="272" y="0" type="line"/>
+      <point x="568" y="0" type="line"/>
+      <point x="568" y="55" type="line"/>
+      <point x="496" y="61" type="line"/>
+      <point x="542" y="37" type="line"/>
+      <point x="344.0" y="265.0" type="line"/>
+      <point x="331.0" y="265.0" type="line"/>
+      <point x="212" y="419" type="line"/>
+      <point x="213" y="397" type="line"/>
+      <point x="284" y="409" type="line"/>
+      <point x="284" y="464" type="line"/>
+      <point x="4" y="464" type="line"/>
+      <point x="4" y="409" type="line"/>
+      <point x="74" y="399" type="line"/>
+      <point x="37" y="419" type="line"/>
+      <point x="227.0" y="192.0" type="line"/>
+      <point x="233.0" y="192.0" type="line"/>
+      <point x="356.0" y="27.0" type="line"/>
+      <point x="369" y="61" type="line"/>
+      <point x="272" y="55" type="line"/>
+    </contour>
+    <contour>
+      <point x="0" y="0" type="line"/>
+      <point x="230.0" y="0.0" type="line"/>
+      <point x="230.0" y="55.0" type="line"/>
+      <point x="148.0" y="62.0" type="line"/>
+      <point x="146.0" y="41.0" type="line"/>
+      <point x="263.0" y="184.0" type="line"/>
+      <point x="230.0" y="253.0" type="line"/>
+      <point x="41.0" y="38.0" type="line"/>
+      <point x="90.0" y="61.0" type="line"/>
+      <point x="0.0" y="55.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="344" y="235" type="line"/>
+      <point x="519" y="423" type="line"/>
+      <point x="486" y="401" type="line"/>
+      <point x="554" y="409" type="line"/>
+      <point x="554" y="464" type="line"/>
+      <point x="326" y="464" type="line"/>
+      <point x="326" y="409" type="line"/>
+      <point x="422" y="395" type="line"/>
+      <point x="411" y="423" type="line"/>
+      <point x="302" y="290" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+      </array>
+    </dict>
+  </lib>
+</glyph>

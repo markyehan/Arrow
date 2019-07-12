@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dotbelow" format="1">
+  <advance width="214"/>
+  <outline>
+    <component base="dotaccent" yOffset="-692"/>
+    <contour>
+      <point x="107" y="0" type="move" name="_bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <integer>90</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>name</key>
+          <string>plum</string>
+          <key>x</key>
+          <integer>107</integer>
+          <key>y</key>
+          <integer>-50</integer>
+        </dict>
+      </array>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>1.0</real>
+        <real>0.4353</real>
+        <real>0.8118</real>
+        <real>0.6</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

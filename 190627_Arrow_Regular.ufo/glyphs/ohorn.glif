@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ohorn" format="1">
+  <advance width="506"/>
+  <unicode hex="01A1"/>
+  <outline>
+    <component base="o"/>
+    <component base="cmb:horn" xOffset="133" yOffset="18"/>
+    <contour>
+      <point x="253" y="444" type="move" name="toplc"/>
+    </contour>
+    <contour>
+      <point x="253" y="0" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <integer>90</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>name</key>
+          <string>plum</string>
+          <key>x</key>
+          <integer>253</integer>
+          <key>y</key>
+          <integer>0</integer>
+        </dict>
+      </array>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.4</real>
+        <real>0.8</real>
+        <real>0.9989</real>
+        <real>0.3009</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

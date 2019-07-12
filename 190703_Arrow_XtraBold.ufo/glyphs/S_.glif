@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="S" format="1">
+  <advance width="548"/>
+  <unicode hex="0053"/>
+  <outline>
+    <contour>
+      <point x="256" y="-15" type="curve" smooth="yes"/>
+      <point x="397" y="-15"/>
+      <point x="518" y="57"/>
+      <point x="518" y="198" type="curve" smooth="yes"/>
+      <point x="518" y="327"/>
+      <point x="418" y="360"/>
+      <point x="331" y="391" type="curve" smooth="yes"/>
+      <point x="265" y="415"/>
+      <point x="207" y="437"/>
+      <point x="207" y="499" type="curve" smooth="yes"/>
+      <point x="207" y="545"/>
+      <point x="246" y="568"/>
+      <point x="292" y="568" type="curve" smooth="yes"/>
+      <point x="317" y="568"/>
+      <point x="348" y="563"/>
+      <point x="400" y="540" type="curve"/>
+      <point x="363" y="580" type="line"/>
+      <point x="430" y="426" type="line"/>
+      <point x="490" y="426" type="line"/>
+      <point x="487" y="646" type="line"/>
+      <point x="384" y="632" type="line"/>
+      <point x="350" y="642"/>
+      <point x="314" y="647"/>
+      <point x="278" y="647" type="curve" smooth="yes"/>
+      <point x="154" y="647"/>
+      <point x="56" y="572"/>
+      <point x="56" y="448" type="curve" smooth="yes"/>
+      <point x="56" y="313"/>
+      <point x="146" y="268"/>
+      <point x="228" y="236" type="curve" smooth="yes"/>
+      <point x="295" y="210"/>
+      <point x="356" y="192"/>
+      <point x="356" y="140" type="curve" smooth="yes"/>
+      <point x="356" y="72"/>
+      <point x="298" y="62"/>
+      <point x="255" y="62" type="curve" smooth="yes"/>
+      <point x="204" y="62"/>
+      <point x="171" y="86"/>
+      <point x="142" y="142" type="curve" smooth="yes"/>
+      <point x="95" y="232" type="line"/>
+      <point x="35" y="232" type="line"/>
+      <point x="50" y="16" type="line"/>
+      <point x="116" y="-8"/>
+      <point x="186" y="-15"/>
+    </contour>
+    <contour>
+      <point x="274.0" y="642.0" type="move" name="topuc"/>
+    </contour>
+    <contour>
+      <point x="274.0" y="0.0" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <integer>90</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>name</key>
+          <string>plum</string>
+          <key>x</key>
+          <integer>274</integer>
+          <key>y</key>
+          <integer>0</integer>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

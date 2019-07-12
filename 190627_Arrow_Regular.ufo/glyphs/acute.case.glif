@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="acute.case" format="1">
+  <advance width="181"/>
+  <outline>
+    <contour>
+      <point x="84" y="851" type="line"/>
+      <point x="-7" y="705" type="line"/>
+      <point x="30" y="694" type="line"/>
+      <point x="171" y="824" type="line"/>
+      <point x="171" y="827" type="line"/>
+    </contour>
+    <contour>
+      <point x="31" y="642" type="move" name="_topuc"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+            <dict>
+              <key>points</key>
+              <array>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <integer>95</integer>
+                  <key>y</key>
+                  <integer>895</integer>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <integer>-16</integer>
+                  <key>y</key>
+                  <integer>720</integer>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <integer>31</integer>
+                  <key>y</key>
+                  <integer>694</integer>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <integer>175</integer>
+                  <key>y</key>
+                  <integer>843</integer>
+                </dict>
+              </array>
+            </dict>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>acute.case</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>181</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

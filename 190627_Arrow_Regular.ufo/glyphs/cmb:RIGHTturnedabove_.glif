@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="cmb:RIGHTturnedabove" format="1">
+  <advance width="279"/>
+  <unicode hex="0315"/>
+  <outline>
+    <contour>
+      <point x="108" y="642" type="curve"/>
+      <point x="179" y="642" type="line"/>
+      <point x="172" y="576"/>
+      <point x="161" y="513"/>
+      <point x="121" y="460" type="curve"/>
+      <point x="100" y="462" type="line"/>
+      <point x="111" y="522"/>
+      <point x="117" y="582"/>
+    </contour>
+    <contour>
+      <point x="89" y="642" type="move" name="_right"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>1.0</real>
+        <real>0.4353</real>
+        <real>0.8118</real>
+        <real>0.6</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

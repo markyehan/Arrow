@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ocircumflexdotbelow" format="1">
+  <advance width="506"/>
+  <unicode hex="1ED9"/>
+  <outline>
+    <component base="o"/>
+    <component base="circumflex" xOffset="88.0"/>
+    <component base="dotbelow" xOffset="135.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.4</real>
+        <real>1.0</real>
+        <real>0.9992</real>
+        <real>0.1372</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>
