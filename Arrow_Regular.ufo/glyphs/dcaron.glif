@@ -4,7 +4,7 @@
   <unicode hex="010F"/>
   <outline>
     <component base="d"/>
-    <component base="cmb:RIGHTturnedabove" xOffset="354.0" yOffset="22.0"/>
+    <component base="cmb:RIGHTturnedabove" xOffset="354" yOffset="22"/>
   </outline>
   <lib>
     <dict>
