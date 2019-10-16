@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="macron.case" format="1">
+  <advance width="265"/>
+  <outline>
+    <contour>
+      <point x="-20" y="730" type="line"/>
+      <point x="285" y="730" type="line"/>
+      <point x="285" y="815" type="line"/>
+      <point x="-20" y="815" type="line"/>
+    </contour>
+    <contour>
+      <point x="132.0" y="642.0" type="move" name="_topuc"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <integer>90</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>name</key>
+          <string>plum</string>
+          <key>x</key>
+          <integer>132</integer>
+          <key>y</key>
+          <integer>0</integer>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

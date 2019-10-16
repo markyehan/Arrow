@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="I" format="1">
+  <advance width="431"/>
+  <unicode hex="0049"/>
+  <outline>
+    <contour>
+      <point x="32" y="0" type="line"/>
+      <point x="399" y="0" type="line"/>
+      <point x="399" y="60" type="line"/>
+      <point x="270" y="74" type="line"/>
+      <point x="300" y="40" type="line"/>
+      <point x="300" y="602" type="line"/>
+      <point x="270" y="568" type="line"/>
+      <point x="399" y="582" type="line"/>
+      <point x="399" y="642" type="line"/>
+      <point x="32" y="642" type="line"/>
+      <point x="32" y="582" type="line"/>
+      <point x="160" y="568" type="line"/>
+      <point x="130" y="602" type="line"/>
+      <point x="130" y="40" type="line"/>
+      <point x="160" y="74" type="line"/>
+      <point x="32" y="60" type="line"/>
+    </contour>
+    <contour>
+      <point x="215.0" y="0.0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="295.0" y="0.0" type="move" name="ogonek"/>
+    </contour>
+    <contour>
+      <point x="215.0" y="642.0" type="move" name="topuc"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <integer>90</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>name</key>
+          <string>plum</string>
+          <key>x</key>
+          <integer>215</integer>
+          <key>y</key>
+          <integer>0</integer>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>
